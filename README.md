@@ -1,1 +1,1 @@
-# Weather API
+# Weather API ☀️🌤☁️🌧
